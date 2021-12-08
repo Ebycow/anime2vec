@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "anime2vec",
+        "tensorShape": [
+          16872,
+          100
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/Ebycow/anime2vec/main/anime2vec_100d.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/Ebycow/anime2vec/main/anime2vec_100d_labels.tsv"
+      }
+    ]
+  }
