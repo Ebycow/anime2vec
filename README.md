@@ -4,6 +4,8 @@
 ## Embedding Projector
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/Ebycow/anime2vec/main/anime2vec_projector_config.json
 
+![projector](https://raw.githubusercontent.com/Ebycow/anime2vec/main/projector.png)
+
 ## predict.py (sample)
 類似作品の表示
 ```
